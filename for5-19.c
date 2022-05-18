@@ -688,7 +688,7 @@ int i2c_address_data_masterRead(HWND hWind, HDC hDC, int origin_x, int origin_y,
 
 	//-----코드추가-----...DONE!
 	
-		m += 1;//🎈m을 1 올린다. m은 20이 된다 
+	//🎈m을 1 올린다. m은 20이 된다 
 	
 	//✨빨간 비트를 내보낸다
 	//🎈SCL (상단)에 내려갔다 올라갔다 하는 비트를 넣어준다
